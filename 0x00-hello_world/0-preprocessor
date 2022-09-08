@@ -1,2 +1,7 @@
+\**
+* This is the preprocessor for C programming
+*
+* It will run C programming
+*/
 #! /bin/bash
-gcc -E $CFILE -o c 
+gcc -E $CFILE -o c
