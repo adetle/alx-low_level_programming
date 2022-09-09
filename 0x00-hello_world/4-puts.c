@@ -1,10 +1,10 @@
 #include <stdio.h>
 \**
-* Main - entry point
+* Main - Entry point
 *
-* Description: function to display comment using put
+* Description: Function to display comment using put
 *
-* Return: the result will be zero
+* Return: 0;
 *
 */
 int main(void)
