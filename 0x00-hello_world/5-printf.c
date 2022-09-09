@@ -9,8 +9,8 @@
 int main(void)
 {
 	/* Printing the string function */
-	char str[] = "with proper grammar\, but the outcome is a piece of art\,"
 
-	printf(str); /* writing the string to standard output*/
+	printf("Write a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+			"); /* writing the string to standard output*/
 	return (0);
 }
