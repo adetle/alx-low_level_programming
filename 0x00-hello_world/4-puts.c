@@ -1,5 +1,12 @@
 #include <stdio.h>
-int puts(const char* Str);
+\**
+* Main - entry point
+*
+* Description: function to display comment using put
+*
+* Return: the result will be zero
+*
+*/
 int main(void)
 {
 	/* Printing the string function */
