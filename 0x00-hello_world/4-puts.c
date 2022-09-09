@@ -1,5 +1,5 @@
 #include <stdio.h>
-\**
+/**
 * Main - Entry point
 *
 * Description: Function to display comment using put
