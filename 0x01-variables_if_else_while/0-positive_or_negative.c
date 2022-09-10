@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Main - Entry point
+ * Main - entry point
  *
  * Description: page for podtove and negative assign number
 **/
@@ -13,11 +13,11 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	if (n < 0)
 	{
-		printf("n is negative\n");
+		printf("%d is negative\n", n);
 	} else if (n == 0)
 	{
-		printf("n is zero\n");
+		printf("%d is zero\n", n);
 	}
-	printf("n is positive %d\n", n);
+	printf("%d is positive %d\n", n);
 	return (0);
 }
