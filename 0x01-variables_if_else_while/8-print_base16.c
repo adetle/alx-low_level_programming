@@ -13,12 +13,12 @@ int main(void)
 	{
 		putchar(x);
 		x++;
-	}	
+	}
 		x = '1';
 		for (i = 0; i < 6; i++)
 	{
 		putchar('0' + x);
-		x++;								
+		x++;
 	}
 	putchar('\n');
 	return (0);
