@@ -13,8 +13,8 @@ int main(void)
 	for (x = 'a'; x <= 'z'; x++)
 	{
 		putchar(x);
-		reverse(x);
 	}
 	putchar('\n');
+	reverse(x);
 	return (0);
 }
