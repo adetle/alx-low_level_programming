@@ -8,11 +8,10 @@
 **/
 int main(void)
 {
-	int n;
-	int m;
-
-	n = rand() - RAND_MAX / 2;
-	lastn = n % 10;
-
+	for (int x = 'A'; x <= 'z'; x++)
+	{
+		x = tolower(x);
+		putchar(x);
+	}
 	return (0);
 }
