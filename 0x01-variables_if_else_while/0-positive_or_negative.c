@@ -1,9 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * Main - entry point
+ * main - entry point
  *
- * Description: page for podtove and negative assign number
+ * Return: Always 0
 **/
 int main(void)
 {
@@ -18,6 +18,6 @@ int main(void)
 	{
 		printf("%d is zero\n", n);
 	}
-	printf("%d is positive %d\n", n);
+	printf("%d is positive\n", n);
 	return (0);
 }
