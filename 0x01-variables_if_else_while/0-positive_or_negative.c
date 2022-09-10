@@ -1,25 +1,23 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
+/**
+ * Main - Entry point
+ *
+ * Description: page for podtove and negative assign number
+**/
 int main(void)
 {
 	int n;
-	
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* check the boolean condition */
-	if (n > 0)
+	if (n < 0)
 	{
-		printf("n is positive\n");
+		printf("n is negative\n");
 	} else if (n == 0)
 	{
 		printf("n is zero\n");
-	} else if (n < 0) 
-	{
-		printf("n is negative\n");
 	}
-	printf("value of n is: %d\n", n);
+	printf("n is positive %d\n", n);
 	return (0);
 }
