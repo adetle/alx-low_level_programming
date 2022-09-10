@@ -12,8 +12,8 @@ int main(void)
 
 	for (x = 'a'; x <= 'z'; x++)
 	{
-		reverse(x)
 		putchar(x);
+		reverse(x);
 	}
 	putchar('\n');
 	return (0);
