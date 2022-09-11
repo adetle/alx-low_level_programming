@@ -9,6 +9,7 @@
 int main(void)
 {
 	int n;
+	int lastn;
 
 	n = rand() - RAND_MAX / 2;
 	lastn = n % 10;
