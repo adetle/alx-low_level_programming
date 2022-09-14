@@ -42,4 +42,13 @@ int _islower(int c);
 
 int _isalpha(int c);
 
+/**
+ * int print_sign(int n);
+ *
+ * return: sign of number
+ */
+
+
+ int print_sign(int n);
+
 #endif
