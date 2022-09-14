@@ -25,4 +25,12 @@ void print_alphabet(void);
  */
 
 void print_alphabet_x10(void);
+
+/**
+ * is_lower - entry
+ *
+ * Return: 1 if c is lower
+ */
+
+nt _islower(int c);
 #endif
