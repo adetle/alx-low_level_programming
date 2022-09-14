@@ -3,7 +3,8 @@
 /**
  * print_sign - Entry point
  *
- * @c: character  alphabet to see if they are present in a given value *
+ * @n: function to determine whether a number is postive, negative or equl to e
+ *
  * Return: a or A;
  */
 
@@ -19,7 +20,7 @@ int print_sign(int n)
 			return (0);
 	} else if (n < 0)
 	{
-		_putchar('_');
+		_putchar('-');
 		return (-1);
 	}
 	return (0);
