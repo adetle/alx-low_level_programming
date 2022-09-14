@@ -3,7 +3,9 @@
 /**
  * _islower - Entry point
  *
- * Return: Always 0;
+ * @c: character to compare
+ *
+ * Return: 1 or 0;
  */
 
 int _islower(int c)
