@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - Entry point
+ * _isalpha - Entry point
  *
  * @c: character to check for letter
  *
@@ -10,7 +10,7 @@
 
 int _isalpha(int c)
 {
-	if ((c >= 'a' && c <= 'z') || (c >='A' && c <= 'Z'))
+	if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{
 		return (1);
 	}
