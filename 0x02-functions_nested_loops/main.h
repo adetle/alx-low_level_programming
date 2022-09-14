@@ -32,5 +32,5 @@ void print_alphabet_x10(void);
  * Return: 1 if c is lower
  */
 
-nt _islower(int c);
+int _islower(int c);
 #endif
