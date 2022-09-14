@@ -9,4 +9,12 @@
 
 int _putchar(char c);
 
+/**
+ * alphabet - lower alphabet
+ *
+ * Return: 1 or 0;
+ */
+
+void print_alphabet(void);
+
 #endif
