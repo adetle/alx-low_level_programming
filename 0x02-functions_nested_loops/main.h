@@ -93,4 +93,13 @@ int _isalpha(int c);
 
   int add(int, int);
 
+  /**
+   * print_to_98 - Entry
+   *
+   *  Return: Always 0
+   */
+
+  void print_to_98(int n);
+
+
 #endif
