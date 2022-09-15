@@ -77,5 +77,12 @@ int _isalpha(int c);
  
   void jack_bauer(void);
 
+  /**
+   * times_table - Entry
+   *
+   * Return: time table
+   */
+
+  void times_table(void);
 
 #endif
