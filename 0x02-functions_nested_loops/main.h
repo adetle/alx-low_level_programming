@@ -85,4 +85,12 @@ int _isalpha(int c);
 
   void times_table(void);
 
+  /**
+   * add - Entry
+   *
+   * Return: Always 0
+   */
+
+  int add(int, int);
+
 #endif
