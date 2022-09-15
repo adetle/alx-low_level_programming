@@ -69,4 +69,13 @@ int _isalpha(int c);
   int print_last_digit(int);
 
 
+  /**
+   * jack_bauer -Entry Point
+   *
+   * Return: Always 0
+   */
+ 
+  void jack_bauer(void);
+
+
 #endif
