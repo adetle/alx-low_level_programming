@@ -3,7 +3,7 @@
 /**
  * jack_bauer - Entry point
  *
- * @n: function to print time across 24 hours
+ * @time: function to print time across 24 hours
  *
  * Return: Always 0;
  */
