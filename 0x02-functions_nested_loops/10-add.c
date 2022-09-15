@@ -3,6 +3,9 @@
 /**
  * add - Entry point
  *
+ * @x: first int
+ * @y: second int
+ *
  * Return: Always 0;
  */
 
