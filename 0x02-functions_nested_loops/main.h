@@ -59,4 +59,14 @@ int _isalpha(int c);
 
   int _abs(int);
 
+
+  /**
+   * print_last_digit - Entry point
+   *
+   * Return: Always 0
+   */
+
+  int print_last_digit(int);
+
+
 #endif
