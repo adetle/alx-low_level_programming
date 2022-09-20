@@ -8,7 +8,7 @@ void swap_int(int *a, int *b);
 
 size_t _strlen(const char *str);
 
-int _putchar(char c)
+int _putchar(char c);
 
 void _puts(char *str);
 
