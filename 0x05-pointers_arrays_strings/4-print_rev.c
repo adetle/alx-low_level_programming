@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * print_rev - Entry.
- * @x: string to tbe reserved.
+ * print_rev - Entry
+ *
+ * @x: string reserved.
  */
 void print_rev(char *x)
 {
