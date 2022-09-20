@@ -2,7 +2,7 @@
 
 /**
  * rev_string - Entry
- * 
+ *
  * @s: string to be reserved.
  */
 void rev_string(char *s)
