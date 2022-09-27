@@ -4,7 +4,7 @@
 * @s: string to check
 * @c: check against
 *
-* Return: number of character in a string
+* Return: a pointer to number of character in a string or NULL if not found
 */
 char *_strchr(char *s, char c)
 {
