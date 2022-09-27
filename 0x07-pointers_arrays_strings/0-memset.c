@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * _memset - fills memory with a constant byte
+ * _memset - Entry
  * @s: memory space to be filled
  * @b: byte to fill with
  * @n: number of spaces to fill
