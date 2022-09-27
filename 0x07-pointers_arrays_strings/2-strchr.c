@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
 * _strchr - find a character in a string
 * @s: string to check
@@ -6,6 +7,7 @@
 *
 * Return: a pointer to number of character in a string or NULL if not found
 */
+
 char *_strchr(char *s, char c)
 {
 int i;
