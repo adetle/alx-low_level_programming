@@ -2,7 +2,6 @@
 
 /**
  * _sqrt_recursion - square root of numbers
- * sqrt_int - square of number
  *
  * @x: check number
  * @y: iterator
@@ -11,6 +10,11 @@
  * Return: natural square 0r -1
  */
 
+/**
+ *
+ * sqrt_int - square of number
+ *
+ */
 int sqrt_int(int x, int y)
 {
 	int sqr = y * y;
