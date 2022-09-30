@@ -11,9 +11,9 @@
  */
 
 /**
- *
  * sqrt_int - square of number
  *
+ * Return: check square
  */
 int sqrt_int(int x, int y)
 {
