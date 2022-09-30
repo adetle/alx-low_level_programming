@@ -2,8 +2,11 @@
 
 /**
  * _sqrt_recursion - square root of numbers
+ * sqrt_int - square of number
  *
- * @n: targt number
+ * @x: check number
+ * @y: iterator
+ * @n: target square number
  *
  * Return: natural square 0r -1
  */
