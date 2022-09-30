@@ -8,7 +8,7 @@
  * Return: Always 0
  */
 
-viod _printOrev_recursion(char *s)
+void _printOrev_recursion(char *s)
 {
 	if (*s == '\0')
 	{
